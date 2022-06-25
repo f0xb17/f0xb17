@@ -1,5 +1,5 @@
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0xb17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0xb17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!--
