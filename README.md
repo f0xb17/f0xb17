@@ -1,5 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0xb17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0xb17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!--
 **f0xb17/f0xb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
