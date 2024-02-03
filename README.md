@@ -1,3 +1,15 @@
+```bash
+#!/bin/bash
+
+declare -A Developer
+
+Developer["name"]="Fox"
+Developer["profession"]="Educator and developer in various fields."
+Developer["tools"]=("JavaScript" "TypeScript" "Java" "Kotlin" "Dart" "Flutter" "C++" "Swift")
+
+done
+```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0xb17&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
